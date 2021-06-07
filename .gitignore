@@ -1,0 +1,8 @@
+
+*.pt
+
+model/pytorch_retinanet_detector/images/
+
+*.pth
+
+model/py_ret_det_multigpu/detect_1080.cpkl
